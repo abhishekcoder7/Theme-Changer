@@ -1,0 +1,68 @@
+*{
+    margin :0;
+    padding:0;
+}
+body{
+    background-color: #212121;
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    background-color: #132043;
+    width: 45vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top:150px; ;
+    border-radius: 50px;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+.heading{
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    margin-top: 70px;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+#red{
+    background-color: #D80032;
+    box-shadow: 1px 1px 10px  white;
+
+}
+#green{
+    background-color: #186F65;
+    box-shadow: 1px 1px 10px  white;
+}
+#blue{
+     background-color: #1450A3;
+     box-shadow: 1px 1px 10px  white;
+}
+#dark{
+ background-color: #212121;
+ box-shadow: 1px 1px 10px  white;
+}
+#orange{
+    background-color: #CD5C08;
+    box-shadow: 1px 1px 10px  white;
+}
+#grey{
+    background-color: #B4B4B3;
+    box-shadow: 1px 1px 10px  white;
+}
+#purple{
+ background-color: #713ABE;
+ box-shadow: 1px 1px 10px  white;
+}
+#brown{
+    background-color: #9A3B3B;
+    box-shadow: 1px 1px 10px  white;
+}
